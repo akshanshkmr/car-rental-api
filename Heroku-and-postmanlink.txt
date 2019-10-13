@@ -1,0 +1,2 @@
+postman link: https://www.getpostman.com/collections/afa3fa04f91505b19fb4
+Heroku-Link: https://carrental-api.herokuapp.com/
